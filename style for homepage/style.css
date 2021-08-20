@@ -22,7 +22,7 @@ html{
     -webkit-font-smoothing:antialiased;
 }
 header{
-    background-image: url('/img/concept-shot-ngo-studio-lighting-ngo-132854883.jpg');
+    background:#070606;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
